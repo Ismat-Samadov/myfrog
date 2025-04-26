@@ -265,9 +265,3 @@ For support:
 - Next.js team
 - Vercel for hosting
 - Contributors and maintainers
-
-## Contact
-
-Email: ismetsemedov@gmail.com
-
-GitHub: [Ismat Samadov](https://github.com/Ismat-Samadov)
